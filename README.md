@@ -30,6 +30,6 @@ https://www.hackerrank.com/challenges/largest-rectangle/problem
 Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each of the array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in your array. 
 https://www.hackerrank.com/challenges/crush/problem
 
-## Minimum Average Waiting Time
+## Minimum Average Waiting Time (Careful the inputs are not ordered by arrival time, it seems so but isn't)
 Tieu owns a pizza restaurant and he manages it in his own way. While in a normal restaurant, a customer is served by following the first-come, first-served rule, Tieu simply minimizes the average waiting time of his customers. So he gets to decide who is served first, regardless of how sooner or later a person comes. 
 https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem
