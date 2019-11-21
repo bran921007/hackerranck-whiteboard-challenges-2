@@ -25,3 +25,7 @@ https://www.hackerrank.com/challenges/simple-text-editor/problem
 ## Largest Area Rectangle
 kyline Real Estate Developers is planning to demolish a number of old, unoccupied buildings and construct a shopping mall in their place. Your task is to find the largest solid area in which the mall can be constructed.
 https://www.hackerrank.com/challenges/largest-rectangle/problem
+
+## Array Manipulation
+Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each of the array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in your array. 
+https://www.hackerrank.com/challenges/crush/problem
